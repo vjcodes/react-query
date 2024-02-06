@@ -1,0 +1,287 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "His mother has always taught this",
+      "tags": [
+        "history",
+        "crime"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "The Art of Coding",
+      "tags": [
+        "technology",
+        "programming",
+        "coding"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Exploring the Wilderness",
+      "tags": [
+        "nature",
+        "adventure",
+        "hiking",
+        "wildlife"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Cooking with Passion",
+      "tags": [
+        "food",
+        "cooking",
+        "recipes",
+        "cuisine"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Learning a New Language",
+      "tags": [
+        "language",
+        "education",
+        "linguistics"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "The World of Finance",
+      "tags": [
+        "finance",
+        "economics",
+        "investment",
+        "money"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Art and Creativity",
+      "tags": [
+        "art",
+        "creativity",
+        "painting",
+        "sculpture"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Traveling Across Continents",
+      "tags": [
+        "travel",
+        "adventure",
+        "explore",
+        "culture"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "The Science of Medicine",
+      "tags": [
+        "medicine",
+        "health",
+        "biology",
+        "research"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Innovation in Technology",
+      "tags": [
+        "technology",
+        "innovation",
+        "invention",
+        "digital"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "The World of Sports",
+      "tags": [
+        "sports",
+        "athletics",
+        "fitness",
+        "competition"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Exploring the Universe",
+      "tags": [
+        "space",
+        "cosmology",
+        "astronomy",
+        "stars"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Love and Relationships",
+      "tags": [
+        "love",
+        "relationships",
+        "dating",
+        "marriage"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "The Power of Music",
+      "tags": [
+        "music",
+        "art",
+        "creativity",
+        "melody"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Fitness and Wellness",
+      "tags": [
+        "fitness",
+        "health",
+        "exercise",
+        "wellness"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Gardening and Horticulture",
+      "tags": [
+        "gardening",
+        "plants",
+        "horticulture",
+        "landscaping"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "The Joy of Reading",
+      "tags": [
+        "books",
+        "reading",
+        "literature",
+        "novels"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "The Beauty of Photography",
+      "tags": [
+        "photography",
+        "art",
+        "creativity",
+        "capturing moments"
+      ]
+    },
+    {
+      "id": 19,
+      "title": "The World of Fashion",
+      "tags": [
+        "fashion",
+        "style",
+        "clothing",
+        "design"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "The Magic of Cinema",
+      "tags": [
+        "movies",
+        "film",
+        "cinema",
+        "entertainment"
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Discipline",
+      "tags": [
+        "coding",
+        "hiking"
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Abstract",
+      "tags": [
+        "crime",
+        "technology"
+      ]
+    }
+  ],
+  "tags": [
+    "history",
+    "crime",
+    "technology",
+    "programming",
+    "coding",
+    "nature",
+    "adventure",
+    "hiking",
+    "wildlife",
+    "food",
+    "cooking",
+    "recipes",
+    "cuisine",
+    "language",
+    "education",
+    "linguistics",
+    "finance",
+    "economics",
+    "investment",
+    "money",
+    "art",
+    "creativity",
+    "painting",
+    "sculpture",
+    "travel",
+    "explore",
+    "culture",
+    "medicine",
+    "health",
+    "biology",
+    "research",
+    "innovation",
+    "invention",
+    "digital",
+    "sports",
+    "athletics",
+    "fitness",
+    "competition",
+    "space",
+    "cosmology",
+    "astronomy",
+    "stars",
+    "love",
+    "relationships",
+    "dating",
+    "marriage",
+    "music",
+    "melody",
+    "fitness",
+    "exercise",
+    "wellness",
+    "gardening",
+    "plants",
+    "horticulture",
+    "landscaping",
+    "books",
+    "reading",
+    "literature",
+    "novels",
+    "photography",
+    "capturing moments",
+    "fashion",
+    "style",
+    "clothing",
+    "design",
+    "movies",
+    "film",
+    "cinema",
+    "entertainment"
+  ]
+}
